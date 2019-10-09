@@ -1,0 +1,6 @@
+# List of files & directories that will not be watched by git
+.sfdx/
+.vscode/
+output.txt
+.DS_Store
+.envrc
